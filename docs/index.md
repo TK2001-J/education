@@ -1,6 +1,8 @@
 V.11 Hello World Thailand by JAY!
 Add stye.css
 
+ทดสอบฟังชันก์
+
 ---
 title: หน้าแรก
 description: หน้าแรกของ TJP Education
