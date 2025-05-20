@@ -1,4 +1,4 @@
-V.6 Hello World Thailand kub!!!!!
+V.7 Hello World Thailand!!!
 
 ---
 title: หน้าแรก
