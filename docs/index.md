@@ -1,7 +1,7 @@
-V.11 Hello World Thailand by JAY!
+V.11.1 Hello World Thailand by JAY!
 Add stye.css
 
-ทดสอบฟังชันก์
+ทดสอบฟังชันก์2
 
 ---
 title: หน้าแรก
